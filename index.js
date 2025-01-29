@@ -1,0 +1,1 @@
+console.log("hi i have made a simple website")
